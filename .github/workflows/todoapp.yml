@@ -76,3 +76,4 @@ jobs:
           cmds: |
             project update
             do deploy
+            
